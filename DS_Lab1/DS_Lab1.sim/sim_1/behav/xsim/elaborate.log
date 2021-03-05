@@ -1,0 +1,18 @@
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto 3b4ff7556a0c44498ff36086ea8e7683 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot ripple_carry_adder_4b_behav xil_defaultlib.ripple_carry_adder_4b -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling architecture dataflow of entity xil_defaultlib.XOR_gate [xor_gate_default]
+Compiling architecture dataflow of entity xil_defaultlib.AND_gate [and_gate_default]
+Compiling architecture structural of entity xil_defaultlib.half_adder [half_adder_default]
+Compiling architecture struct1 of entity xil_defaultlib.full_adder [full_adder_default]
+Compiling architecture struct2 of entity xil_defaultlib.ripple_carry_adder_4b
+Built simulation snapshot ripple_carry_adder_4b_behav
