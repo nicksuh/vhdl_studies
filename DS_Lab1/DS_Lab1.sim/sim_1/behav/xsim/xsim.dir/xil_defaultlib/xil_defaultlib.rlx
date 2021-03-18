@@ -2,8 +2,10 @@
 2020.1
 May 27 2020
 20:09:33
-C:/Users/JDL/DS_Lab1/DS_Lab1.srcs/sources_1/new/AND_gate.vhd,1613879901,vhdl,C:/Users/JDL/DS_Lab1/DS_Lab1.srcs/sources_1/new/half_adder.vhd,,,and_gate,,,,,,,,
-C:/Users/JDL/DS_Lab1/DS_Lab1.srcs/sources_1/new/XOR_gate.vhd,1613928314,vhdl,C:/Users/JDL/DS_Lab1/DS_Lab1.srcs/sources_1/new/half_adder.vhd,,,xor_gate,,,,,,,,
-C:/Users/JDL/DS_Lab1/DS_Lab1.srcs/sources_1/new/full_adder.vhd,1613928925,vhdl,C:/Users/JDL/DS_Lab1/DS_Lab1.srcs/sources_1/new/ripple_carry_adder_4b.vhd,,,full_adder,,,,,,,,
-C:/Users/JDL/DS_Lab1/DS_Lab1.srcs/sources_1/new/half_adder.vhd,1613927948,vhdl,C:/Users/JDL/DS_Lab1/DS_Lab1.srcs/sources_1/new/full_adder.vhd,,,half_adder,,,,,,,,
-C:/Users/JDL/DS_Lab1/DS_Lab1.srcs/sources_1/new/ripple_carry_adder_4b.vhd,1613930275,vhdl,,,,ripple_carry_adder_4b,,,,,,,,
+D:/study/digital_system/vhdl_studies/DS_Lab1/DS_Lab1.srcs/sim_1/new/full_adder_TB.vhd,1614941118,vhdl,,,,full_adder_tb,,,,,,,,
+D:/study/digital_system/vhdl_studies/DS_Lab1/DS_Lab1.srcs/sim_1/new/half_adder_TB.vhd,1614941494,vhdl,,,,half_adder_tb,,,,,,,,
+D:/study/digital_system/vhdl_studies/DS_Lab1/DS_Lab1.srcs/sources_1/new/AND_gate.vhd,1613879901,vhdl,D:/study/digital_system/vhdl_studies/DS_Lab1/DS_Lab1.srcs/sources_1/new/half_adder.vhd,,,and_gate,,,,,,,,
+D:/study/digital_system/vhdl_studies/DS_Lab1/DS_Lab1.srcs/sources_1/new/XOR_gate.vhd,1613928314,vhdl,D:/study/digital_system/vhdl_studies/DS_Lab1/DS_Lab1.srcs/sources_1/new/half_adder.vhd,,,xor_gate,,,,,,,,
+D:/study/digital_system/vhdl_studies/DS_Lab1/DS_Lab1.srcs/sources_1/new/full_adder.vhd,1613928925,vhdl,D:/study/digital_system/vhdl_studies/DS_Lab1/DS_Lab1.srcs/sim_1/new/full_adder_TB.vhd,,,full_adder,,,,,,,,
+D:/study/digital_system/vhdl_studies/DS_Lab1/DS_Lab1.srcs/sources_1/new/half_adder.vhd,1613927948,vhdl,D:/study/digital_system/vhdl_studies/DS_Lab1/DS_Lab1.srcs/sim_1/new/half_adder_TB.vhd,,,half_adder,,,,,,,,
+D:/study/digital_system/vhdl_studies/DS_Lab1/DS_Lab1.srcs/sources_1/new/ripple_carry_adder_4b.vhd,1613930275,vhdl,,,,ripple_carry_adder_4b,,,,,,,,
