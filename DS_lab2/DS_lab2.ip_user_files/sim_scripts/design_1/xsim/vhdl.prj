@@ -1,0 +1,8 @@
+vhdl xpm  \
+"D:/program/vivado/Vivado/2020.1/data/ip/xpm/xpm_VCOMP.vhd" \
+
+vhdl xil_defaultlib  \
+"../../../bd/design_1/ip/design_1_assign_1_0_0/sim/design_1_assign_1_0_0.vhd" \
+"../../../bd/design_1/sim/design_1.vhd" \
+
+nosort
