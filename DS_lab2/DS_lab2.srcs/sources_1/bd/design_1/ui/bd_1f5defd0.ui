@@ -1,27 +1,27 @@
 {
    "ActiveEmotionalView":"Default View",
    "Default View_ScaleFactor":"1.25",
-   "Default View_TopLeft":"-226,-49",
+   "Default View_TopLeft":"-228,-47",
    "ExpandedHierarchyInLayout":"",
-   "guistr":"# # String gsaved with Nlview 7.0r6  2020-01-29 bk=1.5227 VDI=41 GEI=36 GUI=JA:9.0 non-TLS-threadsafe
+   "guistr":"# # String gsaved with Nlview 7.0r6  2020-01-29 bk=1.5227 VDI=41 GEI=36 GUI=JA:9.0 non-TLS
 #  -string -flagsOSRD
-preplace port iRst_0 -pg 1 -lvl 0 -x 0 -y 20 -defaultsOSRD
-preplace port clk_in1_0 -pg 1 -lvl 0 -x 0 -y 100 -defaultsOSRD
-preplace port oLed0_0 -pg 1 -lvl 3 -x 400 -y 60 -defaultsOSRD
-preplace port oLed1_0 -pg 1 -lvl 3 -x 400 -y 80 -defaultsOSRD
-preplace port oLed2_0 -pg 1 -lvl 3 -x 400 -y 100 -defaultsOSRD
-preplace port oLed3_0 -pg 1 -lvl 3 -x 400 -y 120 -defaultsOSRD
+preplace port iRst_0 -pg 1 -lvl 0 -x -10 -y 20 -defaultsOSRD
+preplace port clk_in1_0 -pg 1 -lvl 0 -x -10 -y 100 -defaultsOSRD
+preplace port oLed0_0 -pg 1 -lvl 3 -x 410 -y 60 -defaultsOSRD
+preplace port oLed1_0 -pg 1 -lvl 3 -x 410 -y 80 -defaultsOSRD
+preplace port oLed2_0 -pg 1 -lvl 3 -x 410 -y 100 -defaultsOSRD
+preplace port oLed3_0 -pg 1 -lvl 3 -x 410 -y 120 -defaultsOSRD
 preplace inst clk_wiz_0 -pg 1 -lvl 1 -x 110 -y 90 -defaultsOSRD
-preplace inst assign_1_0 -pg 1 -lvl 2 -x 290 -y 90 -defaultsOSRD
+preplace inst assign_1_0 -pg 1 -lvl 2 -x 300 -y 90 -defaultsOSRD
 preplace netloc clk_wiz_0_clk_out1 1 1 1 N 80
-preplace netloc iRst_0_1 1 0 2 20 20 200
+preplace netloc iRst_0_1 1 0 2 10 20 200
 preplace netloc clk_in1_0_1 1 0 1 NJ 100
 preplace netloc assign_1_0_oLed0 1 2 1 NJ 60
 preplace netloc assign_1_0_oLed1 1 2 1 NJ 80
 preplace netloc assign_1_0_oLed2 1 2 1 NJ 100
 preplace netloc assign_1_0_oLed3 1 2 1 NJ 120
-levelinfo -pg 1 0 110 290 400
-pagesize -pg 1 -db -bbox -sgen -110 0 510 180
+levelinfo -pg 1 -10 110 300 410
+pagesize -pg 1 -db -bbox -sgen -120 0 520 180
 "
 }
-
+0

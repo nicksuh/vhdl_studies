@@ -8,9 +8,9 @@ var WshShell = new ActiveXObject( "WScript.Shell" );
 var ProcEnv = WshShell.Environment( "Process" );
 var PathVal = ProcEnv("PATH");
 if ( PathVal.length == 0 ) {
-  PathVal = "D:/program/vivado/Vivado/2020.1/ids_lite/ISE/bin/nt64;D:/program/vivado/Vivado/2020.1/ids_lite/ISE/lib/nt64;D:/program/vivado/Vivado/2020.1/bin;";
+  PathVal = "D:/Xilinx/Vivado/2020.1/ids_lite/ISE/bin/nt64;D:/Xilinx/Vivado/2020.1/ids_lite/ISE/lib/nt64;D:/Xilinx/Vivado/2020.1/bin;";
 } else {
-  PathVal = "D:/program/vivado/Vivado/2020.1/ids_lite/ISE/bin/nt64;D:/program/vivado/Vivado/2020.1/ids_lite/ISE/lib/nt64;D:/program/vivado/Vivado/2020.1/bin;" + PathVal;
+  PathVal = "D:/Xilinx/Vivado/2020.1/ids_lite/ISE/bin/nt64;D:/Xilinx/Vivado/2020.1/ids_lite/ISE/lib/nt64;D:/Xilinx/Vivado/2020.1/bin;" + PathVal;
 }
 
 ProcEnv("PATH") = PathVal;
@@ -25,7 +25,7 @@ eval( EAInclude(ISEJScriptLib) );
 // pre-commands:
 ISETouchFile( "write_bitstream", "begin" );
 ISEStep( "vivado",
-         "-log design_1_wrapper.vdi -applog -m64 -product Vivado -messageDb vivado.pb -mode batch -source design_1_wrapper.tcl -notrace" );
+         "-log design_3_wrapper.vdi -applog -m64 -product Vivado -messageDb vivado.pb -mode batch -source design_3_wrapper.tcl -notrace" );
 
 
 

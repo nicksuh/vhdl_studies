@@ -44,10 +44,10 @@ entity assign_1 is
 end assign_1;
 
 architecture Behavioral of assign_1 is
-    constant cFREQ1 : integer := 25000000;
-    constant cFREQ2 : integer := 12500000;
-    constant cFREQ3 : integer := 6250000;
-    constant cFREQ4 : integer := 3125000;
+    constant cFREQ1 : integer := 25000000*4;
+    constant cFREQ2 : integer := 25000000*2;
+    constant cFREQ3 : integer := 25000000;
+    constant cFREQ4 : integer := 25000000/2;
 
 begin
     TOGGLE_CNT1_INST : entity work.toggle_cnt

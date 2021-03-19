@@ -1,0 +1,5 @@
+vhdl xil_defaultlib  \
+"../../../bd/design_3/ip/design_3_assign_3_0_0/sim/design_3_assign_3_0_0.vhd" \
+"../../../bd/design_3/sim/design_3.vhd" \
+
+nosort

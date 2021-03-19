@@ -1,10 +1,10 @@
 // Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
 // --------------------------------------------------------------------------------
 // Tool Version: Vivado v.2020.1 (win64) Build 2902540 Wed May 27 19:54:49 MDT 2020
-// Date        : Thu Mar 18 18:14:31 2021
-// Host        : DESKTOP-H4G37MF running 64-bit major release  (build 9200)
-// Command     : write_verilog -force -mode synth_stub {d:/file/aika univer/semester 6/digital
-//               system/vhdl_studies/DS_lab2/DS_lab2.srcs/sources_1/bd/design_1/ip/design_1_assign_1_0_0/design_1_assign_1_0_0_stub.v}
+// Date        : Fri Mar 19 03:41:45 2021
+// Host        : DESKTOP-ONC3675 running 64-bit major release  (build 9200)
+// Command     : write_verilog -force -mode synth_stub
+//               d:/study/digital_system/vhdl_studies/DS_lab2/DS_lab2.srcs/sources_1/bd/design_1/ip/design_1_assign_1_0_0/design_1_assign_1_0_0_stub.v
 // Design      : design_1_assign_1_0_0
 // Purpose     : Stub declaration of top-level module interface
 // Device      : xc7z020clg400-1
